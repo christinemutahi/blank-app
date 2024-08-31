@@ -67,3 +67,4 @@ if(predict_btn):
     with col17:
         st.write('')
 
+
